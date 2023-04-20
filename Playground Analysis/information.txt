@@ -1,0 +1,8 @@
+
+[Title: Playground Analysis]
+[Version: 1]
+
+Dataset: Kaggle 2.3 Million Wildfires 
+Spatial wildfire occurrence data for the United States, 1992-2020 [FPA_FOD_20221014] (6th Edition)
+
+Link: https://www.kaggle.com/datasets/braddarrow/23-million-wildfires
