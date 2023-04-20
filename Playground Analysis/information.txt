@@ -1,5 +1,6 @@
 
 					[Title: Playground Analysis]
+
 						[Version: 1] 
 Notebook: playground_analysis.ipynb
 
@@ -8,6 +9,28 @@ Spatial wildfire occurrence data for the United States, 1992-2020 [FPA_FOD_20221
 
 Link: https://www.kaggle.com/datasets/braddarrow/23-million-wildfires
 
-#######Primary Analysis of Data########
+####### Primary Analysis of Data ########
 # Getting hold of the data -> Check Correlation Matrix 
 # Total number of fires w.r.t each year from 1992 to 2020
+
+
+						[Version: 2]
+Notebook: kaggleUSA.ipynb 
+
+Dataset: Kaggle 2.3 Million Wildfires 
+Spatial wildfire occurrence data for the United States, 1992-2020 [FPA_FOD_20221014] (6th Edition)
+
+Link: https://www.kaggle.com/datasets/braddarrow/23-million-wildfires
+
+
+####### Final Iteration of Playground Analysis ########
+
+Documentation: 
+#1 _variable_descriptions.xlsx -> Metadata for our dataset [Mark Rows: Red -> Not Utilized; Green, Blue -> Important; Yellow -> Further Discussion / Unsure]
+#2 Figures_kaggleUSA.docx -> Results for our final playground analysis
+	Description: 
+		Figure 1: Number of Wildfires for Top 10 States By Year	 	         
+		Figure 2: Average Fire Size For Top 10 States By Year     
+		Figure 3: Average Duration of Wildfires for Top 10 States By Year
+		Figure 4: Correlation Matrix for Top 10 States		     		 
+		Figure 5: Correlation Matrix for California Wildfire Features
