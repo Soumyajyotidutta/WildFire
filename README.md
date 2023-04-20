@@ -11,3 +11,5 @@ Figure 2: Average Fire Size For Top 10 States By Year
 Figure 3: Average Duration of Wildfires for Top 10 States By Year
 Figure 4: Correlation Matrix for Top 10 States		     		 
 Figure 5: Correlation Matrix for California Wildfire Features
+
+~ return repo.Contruction() ~
