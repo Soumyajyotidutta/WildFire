@@ -6,7 +6,7 @@
 
 	2. Parameters: ['FIRE_YEAR', 'DISCOVERY_DOY', 'DISCOVERY_TIME', 
                     'NWCG_CAUSE_CLASSIFICATION', 'NWCG_GENERAL_CAUSE', 
-                    'CONT_DATE', 'CONT_DOY', 'CONT_TIME', 'FIRE_SIZE', 'FIRE_SIZE_CLASS', 'LATITUDE'			, 'LONGITUDE', 'STATE']
+                    'CONT_DATE', 'CONT_DOY', 'CONT_TIME', 'FIRE_SIZE', 'FIRE_SIZE_CLASS', 'LATITUDE', 'LONGITUDE', 'STATE']
 	3. Average duration of fire: basis [Fires -> row 0,1, ....., n] 
 	4. Add season by meteorogical information [for better understanding of behavior w.r.t season]
 	5. Assign state codes
