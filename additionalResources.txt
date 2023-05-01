@@ -1,0 +1,46 @@
+
+### Additional resources 
+
+
+Weather Data: 
+https://open-meteo.com/en/docs/historical-weather-api
+https://archive-api.open-meteo.com/v1/archive?latitude=52.52&longitude=13.41&start_date=2023-02-22&end_date=2023-03-24&hourly=temperature_2m
+
+Other resources:
+
+https://landfire.gov/
+https://www.fs.usda.gov/
+
+ 
+Looking at datasets -> 
+
+https://github.com/JamesonThai/wildfire
+https://ayanmukhopadhyay.github.io/files/neurips2021.pdf
+https://developers.google.com/earth-engine/datasets/tags/wildfire
+https://developers.google.com/earth-engine/datasets/catalog/LANDFIRE_Fire_FRG_v1_2_0
+
+Detailed Article: https://www.mdpi.com/2571-6255/5/4/117
+
+#################################
+
+https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires -> Kaggle Dataset, seems like widely used as well 
+https://jamesonthai.github.io/portfolio/predicting_wildfires/ -> An article referring to what this guy this with the above dataset from Kaggle
+
+More Links:
+
+https://www.landfire.gov/viewer/
+
+https://landfire.gov/version_download.php
+
+https://www.landfire.gov/version_download.php 
+
+https://www.kaggle.com/datasets/behroozsohrabi/us-wildfire-records-6th-edition
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CTWGWE
+
+https://en.wikipedia.org/wiki/Fire_regime ->
+
+https://data-nifc.opendata.arcgis.com/datasets/nifc::2023-wildland-fire-incident-locations-to-date/about
+
+https://www.nwfirescience.org/sites/default/files/publications/Parts%20of%20a%20Fire.pdf
+ 
