@@ -10,5 +10,4 @@ Predicting wildfire behavior: Wildfire behavior is influenced by a complex inter
 
 Communicating with end-users: Researchers need to effectively communicate their findings to end-users such as land managers, policymakers, and the public, which can be challenging to achieve in a timely and effective way.
 
-~ return repo.Contruction() ~
 
