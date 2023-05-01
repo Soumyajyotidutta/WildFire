@@ -1,0 +1,5 @@
+Trial / Experiment:
+
+Using LASSO as a model selection method to select the most significant variables in predicting whether there would be a wildfire or not!!
+
+Perform grid search to find the best set of parameters and to minimize error!!
