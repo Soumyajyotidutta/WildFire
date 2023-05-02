@@ -34,3 +34,7 @@ Documentation:
 		Figure 3: Average Duration of Wildfires for Top 10 States By Year
 		Figure 4: Correlation Matrix for Top 10 States		     		 
 		Figure 5: Correlation Matrix for California Wildfire Features
+		
+						[Version: 3]
+						
+Check readme @wildfireSubmission
