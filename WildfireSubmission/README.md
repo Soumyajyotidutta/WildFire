@@ -6,7 +6,7 @@ the general approach used to address the problem and the summary of insights and
 The approach taken to predict the area growth rate of a wildfire was to take input into account weather data, fire fuel sources. Different regression models were developed, but ultimately an XGBoost Regression model performed best overall with a root mean squared error of 9%. 
 
 
-### Problem Statemen:
+### Problem Statement:
 
 For our analysis of the 2019 wildfires, we aim to predict the area growth rate of a wildfire utilizing various features, including various weather conditions associated with the wildfire location. 
 
